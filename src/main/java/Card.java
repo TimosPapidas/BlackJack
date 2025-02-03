@@ -1,3 +1,5 @@
+package src.main.java;
+
 public class Card {
     public final Suit suit;
     public final Rank rank;

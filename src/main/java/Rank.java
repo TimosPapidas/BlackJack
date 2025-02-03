@@ -1,4 +1,4 @@
-
+package src.main.java;
 
 public enum Rank {
     TWO(2),

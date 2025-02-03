@@ -1,9 +1,11 @@
+package src.main.java;
+
 import java.util.Scanner;
 
 public class Main{
     public static void main(){
 
-        System.out.println("Welcome to Blackjack!");
+        System.out.println("Welcome to src.main.java.Blackjack!");
         while(true){
             Scanner inputScanner = new Scanner(System.in);
             System.out.println("To start playing, enter 'Play'\n");
